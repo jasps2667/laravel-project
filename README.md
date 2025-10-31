@@ -1,2 +1,1 @@
-# laravel-project
-Hi laravle
+# LaravelProject
